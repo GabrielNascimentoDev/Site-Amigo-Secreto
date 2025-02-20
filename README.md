@@ -7,10 +7,3 @@ Nosso site de Amigo Secreto é a solução ideal para organizar suas celebraçõ
 - `CSS`
 - `HTML`
 
-- <h4 align="center"> 
-    :construction:  Projeto em construção  :construction:
-</h4>
-
-
-- # 📁 Acesso ao projeto
-- file:///C:/Users/bielh/Downloads/challenge-amigo-secreto_pt-main/challenge-amigo-secreto_pt-main/index.html
